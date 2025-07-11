@@ -41,8 +41,10 @@
 
 ## 📊 GitHub Stats
 
-![Florenz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=florenz-ramos&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florenz-ramos&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=florenz-ramos&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenz-ramos&layout=compact&theme=radical" width="45%"/>
+</div>
 
 ---
 
