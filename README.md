@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Florenz Ramos 👋</h1>
+<p align="center">
+  Full-Stack Software Developer | API, Automation, Web, & AI | C#, TypeScript, Python
+</p>
 
-<!--
-**florenz-ramos/florenz-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master's Student in Computer Science  
+- 🛠️ I love building developer tools, CLI apps, API generators, and SaaS platforms  
+- 🚀 Currently working on my own custom programming language, **Flux**, powered by C#  
+- 🎯 Goal: Build real, impactful software – not just demos
