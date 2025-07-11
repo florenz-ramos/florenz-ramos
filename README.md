@@ -43,8 +43,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FlorenzRamos&theme=radical" width="400"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlorenzRamos&theme=radical" width="400"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=florenz-ramos&theme=radical" width="400"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=florenz-ramos&theme=radical" width="400"/></td>
   </tr>
 </table>
 
