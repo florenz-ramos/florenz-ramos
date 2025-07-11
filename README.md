@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Florenz Ramos 👋</h1>
 <p align="center">
-  Full-Stack Software Developer | API, Automation, Web, & AI | C#, TypeScript, Python
+  Full-Stack Software Developer | API, Automation, Web, & AI | C#, TypeScript
 </p>
 
 ---
