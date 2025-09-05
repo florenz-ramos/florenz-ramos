@@ -8,7 +8,6 @@
 ## 🧠 About Me
  
 - 🛠️ I love building developer tools, CLI apps, API generators, and SaaS platforms  
-- 🚀 Currently working on my own custom programming language, **Flux**, powered by C#  
 - 🎯 Goal: Build real, impactful software – not just demos
 
 ---
