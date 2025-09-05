@@ -48,20 +48,6 @@
   </tr>
 </table>
 
----
-
-## 📌 Pinned Projects
-
-- [🔧 Flux Programming Language](https://github.com/florenz-ramos/flux)  
-A C#-powered interpreted language with BASIC-like syntax and a custom parser/lexer.
-
-<!--- [🧱 ASP.NET API Generator Tool](https://github.com/FlorenzRamos/api-generator)  
-Tool that generates clean .NET Core Web APIs from schema files.
-
-- [🎮 Cat Catches Mouse Game](https://github.com/FlorenzRamos/cat-catches-mouse)  
-Fun browser game built with React + Next.js.
-
--->
 
 ---
 
